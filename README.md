@@ -10,8 +10,6 @@
 
 This tool bridges the gap between raw experimental data and actionable biological insights by providing a suite of powerful visualization and statistical modules.
 
-![KinoViz Dashboard Screenshot](https://via.placeholder.com/800x450.png?text=KinoViz+Main+Dashboard+Screenshot)
-*(Placeholder: Replace with an actual screenshot of the application's welcome screen)*
 
 ---
 
